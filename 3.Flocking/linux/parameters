@@ -1,0 +1,2 @@
+  0.01        3.0                   71                  1000.0      80.0           1.0           0.1
+Time Step, Point Size, Square Root of Number of Boids, Cohesion, Alignment, NeighborRadius, CollisionRadius

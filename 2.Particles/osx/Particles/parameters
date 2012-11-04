@@ -1,0 +1,14 @@
+    0.4        -4.9         0.01        1.5           4.0                 1024                      0
+Restitution, GravityVY, Time Step, Point Size, Time Multiplier,  Square Root of Number of Particles, Dominant Color Spectrum
+
+Time Step - smaller values, slower simulation, higher values, faster simulation
+Time Multiplier - the amount of time it takes to emit all the particles
+Point Size - the size of each particle billboard
+Square Root of Number of Particles - Essentially the texture size that holds the particle data. Most performant in powers of 2.
+Dominant Color Spectrum - 0=Red, 1=Green, 2=Blue, 
+
+Reccomended Values : 
+    0.6        -4.9         0.01        1.0           3.0                 1024                      0
+Restitution, GravityVY, Time Step, Point Size, Time Multiplier,  Square Root of Number of Particles, Dominant Color Spectrum
+
+Interesting changes : Point Size = 1.0, Time Multiplier=2.0, Dominant Color Spectrum=1 or 2

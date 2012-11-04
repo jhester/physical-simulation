@@ -1,0 +1,23 @@
+README
+
+Just type in make, then run ./main
+
+Not quite finished. Unfortunately ran out of time.
+
+Right now its a two pass shader, with heavy preprocessing done for each OBJ model to 
+create a set of five textures, position, velocity, color, external forces, neighborhood, and neighbors. 
+All of this is pre-computed for speed, for instance rest lengths and neighbors of each vertex are 
+encoded in these textures. So each vertex should only have to do N dependent texture lookups for its neighbors.
+Where N is the number of neighbors, generally in the range of 6 to 16.
+
+First pass is computing, second pass is a simple phong shader which makes the particles look a lot better (lighting).
+
+Borrowed heavily from the two papers included : 
+Interactive Simulation of Deformable Bodies on GPUs
+Large Steps in GPU-based Deformable Bodies Simulation 
+
+These both came out in 2005 and have great GPGPU ways of doing deformable meshes, I included a lot of optimizations from each of 
+these papers, especially the concept of pre-computing the ring of neighbours, and parallelizing the force computations.
+
+There methods used either Verlet integration or implicit Euler. So if I can get RK4 working with this it will be a great stability
+and accuracy improvement over their work.

@@ -1,0 +1,17 @@
+  0.001        2.0     1.0  45   dragon_vrip_res3.obj
+Time Step, Point Size,  KS, KD,    OBJ file
+
+===Try These OBJ files, try fewer vertices, larger Point Size====
+bun_zipper_res1.obj     has 209,686 vertices
+bun_zipper_res2.obj     has 8,171   vertices
+bun_zipper_res3.obj     has 2,503  vertices
+
+dragon_vrip_res2.obj    has 100,250 vertices
+dragon_vrip_res3.obj    has 22,998 vertices
+
+box_res1.obj            has 2,906 vertices
+box_res2.obj            has 56 vertices
+box_res3.obj            has 8 vertices
+
+All models taken from The Stanford 3D Scanning Repository.
+Converted to OBJ files with Blender.
