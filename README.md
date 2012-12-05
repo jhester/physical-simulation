@@ -5,4 +5,4 @@ This project contains a progression of physical simulations using OpenGL, GLSL, 
 
 The novelty of this project is that nearly all the simulations are done completely on the GPU, and can be run on most laptops and desktops with factory standard video cards.
 
-Each project has a Linux version, and an XCode project.
+Each project has a Linux version, and an XCode project, except for the Soft Bodies simulations with WebGL and the bouncing cube with WebGL.
