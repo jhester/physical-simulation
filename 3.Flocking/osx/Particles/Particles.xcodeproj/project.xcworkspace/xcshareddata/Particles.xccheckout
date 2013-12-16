@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6211FC31-2A05-4C9C-9012-5D75452CF6AA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Particles</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8D343175-FAC5-4DD3-869F-308D36CC1C22</key>
+		<string>https://github.com/jhester/physical-simulation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>3.Flocking/osx/Particles/Particles.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8D343175-FAC5-4DD3-869F-308D36CC1C22</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jhester/physical-simulation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8D343175-FAC5-4DD3-869F-308D36CC1C22</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8D343175-FAC5-4DD3-869F-308D36CC1C22</string>
+			<key>IDESourceControlWCCName</key>
+			<string>physical-simulation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
