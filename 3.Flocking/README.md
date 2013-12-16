@@ -1,5 +1,6 @@
 Boids
 ===================
+![](https://raw.github.com/jhester/physical-simulation/master/3.Flocking/screen.png)
 
 Uses the Boids model shown in the [Reynolds 87 paper](http://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/), uses Collision Avoidance (Separation), 
 Cohesion, and Alignment on a local scale. Fully implemented on the GPU, can easily run about 

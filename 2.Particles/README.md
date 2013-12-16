@@ -1,5 +1,6 @@
 Million Particle System
 ===================
+![](https://raw.github.com/jhester/physical-simulation/master/2.Particles/screen.png)
 
 This work takes parts from a SIGGRAPH 2004 paper entitled "Hardware-based simulation and collision detection for large particle systems", the citation can be found here: 
 

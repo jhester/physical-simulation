@@ -2,6 +2,8 @@ Interactive Soft Bodies
 ===================
 ###With Three.js
 
+![](https://raw.github.com/jhester/physical-simulation/master/6.InteractiveSoftBodies/screen.png)
+
 This project simulates a minecraft style voxel world, dynamically generated, where you can drop in soft bodie voxels and watch them interact with the environment and each other.
 
 Also bodies are affected by the wind forces (shown by a particle sim in the background).

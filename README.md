@@ -1,5 +1,6 @@
 Physical Simulation Demos
 ===================
+![](https://raw.github.com/jhester/physical-simulation/master/6.InteractiveSoftBodies/screen.png)
 
 This project contains a progression of physical simulations using OpenGL, GLSL, and WebGL. Currently holds a bouning ball simulation in WebGL, and GPU based implementations of particles, flocking, and  deformable bodies.
 
